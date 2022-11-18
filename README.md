@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/brodaremi" target="blank"><img src="https://img.shields.io/twitter/follow/brodaremi?logo=twitter&style=for-the-badge" alt="brodaremi" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript (Node.js, Express.js and MongoDB) As well as PHP and MySQL**
 
 - 👨‍💻 All of my projects are available at [www.github.com/brodaremi](www.github.com/brodaremi)
 
