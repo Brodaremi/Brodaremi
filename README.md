@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Momoh Remi</h1>
-<h3 align="center">A passionate frontend developer|graphic designer|Mechanical engineer from Nigeria from Nigeria</h3>
+<h3 align="center">A passionate frontend developer|graphic designer|Mechanical engineer from Nigeria</h3>
 
 <p align="left"> <a href="https://twitter.com/brodaremi" target="blank"><img src="https://img.shields.io/twitter/follow/brodaremi?logo=twitter&style=for-the-badge" alt="brodaremi" /></a> </p>
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [www.github.com/brodaremi](www.github.com/brodaremi)
 
-- 💬 Ask me about **HTML,CSS,Bootsrap,Tailwind,Bulma,JavaScript,Github,AutoCAD,Photoshop,etc**
+- 💬 Ask me about **HTML, CSS, Bootsrap, Tailwind, Bulma, JavaScript, Node.js, Express.js, MongoDB, PHP and MySql, Git & Github, AutoCAD, Photoshop,etc**
 
 - 📫 How to reach me **remimomoh5@gmail.com**
 
